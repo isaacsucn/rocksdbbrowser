@@ -1,2 +1,2 @@
 # rocksdbbrowser
-GUI DB browser for RocksDB
+the DB Browser for RocksDB
